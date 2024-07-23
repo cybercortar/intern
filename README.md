@@ -15,4 +15,5 @@ to execute , write node test.js
 
 npm install dns portscanner
 copy paste the script of task into file and rename it to task.js
+to execute , write node taask.js
 
